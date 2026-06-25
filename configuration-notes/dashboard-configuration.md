@@ -49,3 +49,6 @@ Harshil's Dashboard
   agent.name
   status
   count
+
+Outcome
+The dashboard provided a professional SOC-style view of alert volume, top triggered rules, and endpoint status.
